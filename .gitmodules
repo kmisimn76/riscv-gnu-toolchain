@@ -3,16 +3,16 @@
 	url = ../riscv-binutils-gdb.git
 [submodule "riscv-glibc"]
 	path = riscv-glibc
-	url = ../riscv-glibc.git
+	url = git://sourceware.org/git/glibc.git
 [submodule "riscv-dejagnu"]
 	path = riscv-dejagnu
 	url = ../riscv-dejagnu.git
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = ../riscv-newlib.git
+	url = git://sourceware.org/git/newlib-cygwin.git
 [submodule "riscv-qemu"]
 	path = riscv-qemu
-	url = ../riscv-qemu.git
+	url = https://git.qemu.org/git/qemu.git
 [submodule "riscv-gdb"]
 	path = riscv-gdb
 	url = ../riscv-binutils-gdb.git
